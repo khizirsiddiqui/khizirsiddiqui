@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Khizir's github stats](https://github-readme-stats.vercel.app/api?username=khizirsiddiqui&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/khizirsiddiqui/count.svg)
